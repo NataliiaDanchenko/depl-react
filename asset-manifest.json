@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/React-Deploy/static/css/main.5f9121d0.css",
-    "main.js": "/React-Deploy/static/js/main.7ef0824d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/React-Deploy/static/js/787.28cb0dcd.chunk.js",
-    "static/media/section1-background.png": "/React-Deploy/static/media/section1-background.e387d003bc0cadafa65d.png",
-    "static/media/header-background.png": "/React-Deploy/static/media/header-background.3b0a1d2d5a9e33e69d45.png",
-    "static/media/header-img.png": "/React-Deploy/static/media/header-img.0cd4cfb03174ad6b0621.png",
-    "static/media/header-logo.svg": "/React-Deploy/static/media/header-logo.e4595439a71be835c054c164cb2b4e1b.svg",
-    "index.html": "/React-Deploy/index.html",
-    "main.5f9121d0.css.map": "/React-Deploy/static/css/main.5f9121d0.css.map",
-    "main.7ef0824d.js.map": "/React-Deploy/static/js/main.7ef0824d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/React-Deploy/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/depl-react/static/css/main.f5122c3c.css",
+    "main.js": "/depl-react/static/js/main.648ac5ea.js",
+    "static/js/787.28cb0dcd.chunk.js": "/depl-react/static/js/787.28cb0dcd.chunk.js",
+    "static/media/section1-background.png": "/depl-react/static/media/section1-background.e387d003bc0cadafa65d.png",
+    "static/media/header-background.png": "/depl-react/static/media/header-background.3b0a1d2d5a9e33e69d45.png",
+    "static/media/header-img.png": "/depl-react/static/media/header-img.0cd4cfb03174ad6b0621.png",
+    "static/media/header-logo.svg": "/depl-react/static/media/header-logo.e4595439a71be835c054c164cb2b4e1b.svg",
+    "index.html": "/depl-react/index.html",
+    "main.f5122c3c.css.map": "/depl-react/static/css/main.f5122c3c.css.map",
+    "main.648ac5ea.js.map": "/depl-react/static/js/main.648ac5ea.js.map",
+    "787.28cb0dcd.chunk.js.map": "/depl-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f9121d0.css",
-    "static/js/main.7ef0824d.js"
+    "static/css/main.f5122c3c.css",
+    "static/js/main.648ac5ea.js"
   ]
 }
