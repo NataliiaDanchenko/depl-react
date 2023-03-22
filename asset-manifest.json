@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/NataliiaDanchenko/depl-react.git/static/css/main.0ad47a38.css",
-    "main.js": "/NataliiaDanchenko/depl-react.git/static/js/main.03e260cb.js",
-    "static/js/787.28cb0dcd.chunk.js": "/NataliiaDanchenko/depl-react.git/static/js/787.28cb0dcd.chunk.js",
-    "static/media/section1-background.png": "/NataliiaDanchenko/depl-react.git/static/media/section1-background.e387d003bc0cadafa65d.png",
-    "static/media/header-background.png": "/NataliiaDanchenko/depl-react.git/static/media/header-background.3b0a1d2d5a9e33e69d45.png",
-    "static/media/header-img.png": "/NataliiaDanchenko/depl-react.git/static/media/header-img.0cd4cfb03174ad6b0621.png",
-    "static/media/header-logo.svg": "/NataliiaDanchenko/depl-react.git/static/media/header-logo.e4595439a71be835c054c164cb2b4e1b.svg",
-    "index.html": "/NataliiaDanchenko/depl-react.git/index.html",
-    "main.0ad47a38.css.map": "/NataliiaDanchenko/depl-react.git/static/css/main.0ad47a38.css.map",
-    "main.03e260cb.js.map": "/NataliiaDanchenko/depl-react.git/static/js/main.03e260cb.js.map",
-    "787.28cb0dcd.chunk.js.map": "/NataliiaDanchenko/depl-react.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/React-App-new/static/css/main.40e8dea2.css",
+    "main.js": "/React-App-new/static/js/main.00fe1da7.js",
+    "static/js/787.28cb0dcd.chunk.js": "/React-App-new/static/js/787.28cb0dcd.chunk.js",
+    "static/media/section1-background.png": "/React-App-new/static/media/section1-background.e387d003bc0cadafa65d.png",
+    "static/media/header-background.png": "/React-App-new/static/media/header-background.3b0a1d2d5a9e33e69d45.png",
+    "static/media/header-img.png": "/React-App-new/static/media/header-img.0cd4cfb03174ad6b0621.png",
+    "static/media/header-logo.svg": "/React-App-new/static/media/header-logo.e4595439a71be835c054c164cb2b4e1b.svg",
+    "index.html": "/React-App-new/index.html",
+    "main.40e8dea2.css.map": "/React-App-new/static/css/main.40e8dea2.css.map",
+    "main.00fe1da7.js.map": "/React-App-new/static/js/main.00fe1da7.js.map",
+    "787.28cb0dcd.chunk.js.map": "/React-App-new/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0ad47a38.css",
-    "static/js/main.03e260cb.js"
+    "static/css/main.40e8dea2.css",
+    "static/js/main.00fe1da7.js"
   ]
 }
