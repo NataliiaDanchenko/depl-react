@@ -1,0 +1,23 @@
+.our_superpower_flex_card {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 247px;
+    height: 338px;
+    border: solid 1px lightgray;
+    border-radius: 15px;
+    box-shadow: 1px 1px 20px 0 rgba(0, 0, 0, 0.15);
+}
+.our_superpower_flex_card_inner {
+    width: 100px;
+    height: 200px;
+}
+img {
+    width: 100px;
+    height: 100px;
+}
+.our_superpower_flex_card_inner_text {
+    padding-top: 15px;
+    text-align: center;
+    font-size: 15px;
+}

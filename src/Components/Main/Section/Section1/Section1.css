@@ -1,0 +1,17 @@
+.section1_background {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../../../assets/img/section1-background.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    object-fit: contain;
+}
+.section1_text {
+    color: white;
+    font-size: 64px;
+    font-weight: 700;
+    text-align: center;
+}
