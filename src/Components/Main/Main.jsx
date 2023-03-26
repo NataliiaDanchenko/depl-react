@@ -8,6 +8,7 @@ const Main = (props) => {
         <main>
             <Section1 backgroundVideo={props.backgroundVideo}/>
             <Section2 offers={props.offers}/>
+
         </main>
     )
 }
