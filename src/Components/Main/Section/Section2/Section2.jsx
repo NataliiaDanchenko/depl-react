@@ -10,9 +10,8 @@ const Section2 = (props) => {
                 <div className="our_superpower_flex">
 
                     {
-                        props.section2.map(c => <Card section2={c}/>)
+                        props.offers.map(c => <Card offer={c}/>)
                     }
-
 
                 </div>
             </div>

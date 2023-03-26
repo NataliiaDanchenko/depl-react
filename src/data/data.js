@@ -1,39 +1,48 @@
+import icon1 from "../assets/img/Section2_Our_Super_Power/icons1.svg";
+import icon2 from "../assets/img/Section2_Our_Super_Power/icons2.svg";
+import icon3 from "../assets/img/Section2_Our_Super_Power/icons3.svg";
+import icon4 from "../assets/img/Section2_Our_Super_Power/icons4.svg";
+
 let state = {
-    header: {
-        links: ["Portfolio", "Our works", "About us", "Price"]
-    },
-    header1: {
-        contacts: ["Contacts"],
-    },
-    header2: {
-        logosTitle: ["MEDFORTD", "MEDIA"],
-    },
-    header3: {
-        h1: ["CREATING VIDEOS AND PODCASTS FOR BISNESS", "Send a brief", "The brief gives an understanding of what type of video your business needs"]
-    },
+    header:
+        {
+            links: ["Portfolio", "Our works", "About us", "Price"],
+            contacts: ["Contacts"],
+            logosTitle: {
+                title1: "MEDFORTD",
+                title2: "MEDIA"
+            },
+            h1: {
+                titleH1: "CREATING VIDEOS AND PODCASTS FOR BISNESS",
+                brifButton: "Send a brief",
+                brifSubTitle: "The brief gives an understanding of what type of video your business needs"
+            }
+        },
+
     main: {
-        section1: ["PROFESSIONAL VIDEO PRODUCTION", "20 YEARS OF MEDICAL VIDEO MARKETING"]
-    },
-    main1: {
-        section2: [
+        backgroundVideo: {
+            backgroundVideoTitle: "PROFESSIONAL VIDEO PRODUCTION",
+            backgroundVideoSubTitle: "20 YEARS OF MEDICAL VIDEO MARKETING"
+        },
+        offers: [
             {
-                icon: "../../../../assets/img/Section2_Our_Super_Power/icons1.svg",
+                icon: icon1,
                 text: "Creating image and training videos"
             },
             {
-                icon: "../../../../assets/img/Section2_Our_Super_Power/icons2.svg",
+                icon: icon2,
                 text: "Providing production and technical support for corporate video blogs"
             },
             {
-                icon: "../../../../assets/img/Section2_Our_Super_Power/icons3.svg",
+                icon: icon3,
                 text: "Organizing and conducting thematic webinars"
             },
             {
-                icon: "../../../../assets/img/Section2_Our_Super_Power/icons4.svg",
+                icon: icon4,
                 text: "Recording podcasts in all business-friendly formats"
             }
-        ]
 
+        ]
     }
 }
 export default state;

@@ -9,10 +9,10 @@ function App(props) {
   return (
     <div className="App">
       <header className="App">
-        <Header links={props.state.header.links} logo={img} contacts={props.state.header1.contacts} logosTitle={props.state.header2.logosTitle} h1={props.state.header3.h1}/>
+        <Header links={props.state.header.links} logo={img} contacts={props.state.header.contacts} logosTitle={props.state.header.logosTitle} h1={props.state.header.h1}/>
       </header>
 
-        <Main section1={props.state.main.section1} section2={props.state.main1.section2} newSectionCard={props.state.main1.section2}/>
+        <Main backgroundVideo={props.state.main.backgroundVideo}  offers={props.state.main.offers} newSectionCard={props.state.offers}/>
         <Footer/>
 
     </div>

@@ -15,7 +15,7 @@ const Header = (props) => {
                     <div className="header_logo_nav">
                         <div className="header_logo">
                             <img src={props.logo} alt="logo"/>
-                            <div className="logo_text">{props.logosTitle[0]}<div>{props.logosTitle[1]}</div></div>
+                            <div className="logo_text">{props.logosTitle.title1}<div>{props.logosTitle.title2}</div></div>
                         </div>
                         <nav>
                             {headerItems}
@@ -26,12 +26,12 @@ const Header = (props) => {
 
                 <div className="header_title container">
                     <div className="header_title_brief">
-                        <div className="header_title_text">{props.h1[0]}</div>
+                        <div className="header_title_text">{props.h1.titleH1}</div>
                         <div className="header_brief">
                             <div className="header_brief_button">
-                                <div className="header_brief_button_text">{props.h1[1]}</div>
+                                <div className="header_brief_button_text">{props.h1.brifButton}</div>
                             </div>
-                            <div className="header_brief_text">{props.h1[2]}</div>
+                            <div className="header_brief_text">{props.h1.brifSubTitle}</div>
                         </div>
                     </div>
                     <div className="header_title_img"></div>
