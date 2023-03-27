@@ -1,19 +1,23 @@
 {
   "files": {
-    "main.css": "/depl-react/static/css/main.5f5cd38e.css",
-    "main.js": "/depl-react/static/js/main.01cdf49f.js",
+    "main.css": "/depl-react/static/css/main.8842298b.css",
+    "main.js": "/depl-react/static/js/main.bd81028c.js",
     "static/js/787.28cb0dcd.chunk.js": "/depl-react/static/js/787.28cb0dcd.chunk.js",
     "static/media/section1-background.png": "/depl-react/static/media/section1-background.e387d003bc0cadafa65d.png",
     "static/media/header-background.png": "/depl-react/static/media/header-background.3b0a1d2d5a9e33e69d45.png",
     "static/media/header-img.png": "/depl-react/static/media/header-img.0cd4cfb03174ad6b0621.png",
+    "static/media/icons2.svg": "/depl-react/static/media/icons2.0c86859a927295ab0e0aff56b7c62060.svg",
+    "static/media/icons4.svg": "/depl-react/static/media/icons4.7adab2e6a558658fdcdbdd10abd89533.svg",
+    "static/media/icons1.svg": "/depl-react/static/media/icons1.cd0ef3568c821f3705084ef66f9de6c8.svg",
     "static/media/header-logo.svg": "/depl-react/static/media/header-logo.e4595439a71be835c054c164cb2b4e1b.svg",
+    "static/media/icons3.svg": "/depl-react/static/media/icons3.a1e8805e6b07ed5fe33846851494a978.svg",
     "index.html": "/depl-react/index.html",
-    "main.5f5cd38e.css.map": "/depl-react/static/css/main.5f5cd38e.css.map",
-    "main.01cdf49f.js.map": "/depl-react/static/js/main.01cdf49f.js.map",
+    "main.8842298b.css.map": "/depl-react/static/css/main.8842298b.css.map",
+    "main.bd81028c.js.map": "/depl-react/static/js/main.bd81028c.js.map",
     "787.28cb0dcd.chunk.js.map": "/depl-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5f5cd38e.css",
-    "static/js/main.01cdf49f.js"
+    "static/css/main.8842298b.css",
+    "static/js/main.bd81028c.js"
   ]
 }
