@@ -1,13 +1,9 @@
 
 import "./Header.css";
+import HeaderLink from "./HeaderLink/HeaderLink";
 
-const HeaderLink = (props) => {
-    return (
-        <div><a href="https://www.google.com.ua/">{props.link}</a></div>
-    )
-}
 const Header = (props) => {
-    let headerItems = props.links.map(link => <HeaderLink link={link}/>)
+    let headerItems = props.links.links.map(link => <HeaderLink link={link}/>)
     return (
         <header>
             <div className="header_background">

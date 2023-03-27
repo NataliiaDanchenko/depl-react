@@ -6,7 +6,24 @@ import icon4 from "../assets/img/Section2_Our_Super_Power/icons4.svg";
 let state = {
     header:
         {
-            links: ["Portfolio", "Our works", "About us", "Price"],
+            links: [
+                {
+                    name: "Portfolio",
+                    address: "/portfolio"
+                },
+                {
+                    name: "Our works",
+                    address: "/works"
+                },
+                {
+                    name: "About us",
+                    address: "/about-us"
+                },
+                {
+                    name: "Price",
+                    address: "/price"
+                }
+        ],
             contacts: ["Contacts"],
             logosTitle: {
                 title1: "MEDFORTD",
