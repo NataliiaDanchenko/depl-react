@@ -9,7 +9,7 @@ let state = {
             links: [
                 {
                     name: "Portfolio",
-                    address: "/portfolio"
+                    address: "/"
                 },
                 {
                     name: "Our works",

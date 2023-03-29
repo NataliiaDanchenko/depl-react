@@ -11,13 +11,14 @@ import {Route, Routes} from "react-router-dom";
 
 function App(props) {
   return (
+
     <div className="App">
       <header className="App">
         <Header links={props.state.header} logo={img} contacts={props.state.header.contacts} logosTitle={props.state.header.logosTitle} h1={props.state.header.h1}/>
 
       </header>
     <Routes>
-        <Route path="/portfolio" element={<Main backgroundVideo={props.state.main.backgroundVideo}  offers={props.state.main.offers} newSectionCard={props.state.offers}/>}/>
+        <Route path="/" element={<Main backgroundVideo={props.state.main.backgroundVideo}  offers={props.state.main.offers} newSectionCard={props.state.offers}/>}/>
         <Route path="/works" element={<Works/>}/>
         <Route path="/about-us" element={<AboutUs/>}/>
         <Route path="/price" element={<Price/>}/>
