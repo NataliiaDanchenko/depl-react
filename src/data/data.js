@@ -37,11 +37,11 @@ let state = {
         },
 
     main: {
-        backgroundVideo: {
+        section1: {
             backgroundVideoTitle: "PROFESSIONAL VIDEO PRODUCTION",
             backgroundVideoSubTitle: "20 YEARS OF MEDICAL VIDEO MARKETING"
         },
-        offers: [
+        section2: [
             {
                 icon: icon1,
                 text: "Creating image and training videos"
