@@ -11,6 +11,7 @@ const Main = (props) => {
             <Section1 backgroundVideo={props.backgroundVideo}/>
             <Section2 offers={props.offers}/>
 
+
         </main>
     )
 }

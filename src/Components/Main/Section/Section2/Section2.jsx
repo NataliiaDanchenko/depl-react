@@ -1,5 +1,4 @@
 
-import Card from "./newSectionCard/NewSectionCard";
 import "./Section2.css";
 
 const Section2 = (props) => {
@@ -9,9 +8,7 @@ const Section2 = (props) => {
                 <div className="h2"><h2>OUR SUPERPOWER</h2></div>
                 <div className="our_superpower_flex">
 
-                    {
-                        props.offers.map(c => <Card offer={c}/>)
-                    }
+
 
                 </div>
             </div>
