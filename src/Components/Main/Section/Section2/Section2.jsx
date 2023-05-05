@@ -1,6 +1,6 @@
 
 import "./Section2.css";
-import NewSectionCard from "./newSectionCard/NewSectionCard";
+import NewSectionCard from "../../newSectionCard/NewSectionCard";
 
 const Section2 = (props) => {
     {/*} let sectionCard = props.map(card => <NewSectionCard props={card} />)*/}

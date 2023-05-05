@@ -1,17 +1,26 @@
 
 import "./Main.css";
-import Section1 from "./Section/Section1/Section1";
-import Section2 from "./Section/Section2/Section2";
-
+import NewSectionCard from "./newSectionCard/NewSectionCard";
 
 
 const Main = (props) => {
-
+    let section2Items = props.main.section2.map(card => <NewSectionCard card={card}/>)
     return (
         <main>
-            <Section1 backgroundVideo="PROFESSIONAL VIDEO PRODUCTION" backgroundVideoSubTitle="20 YEARS OF MEDICAL VIDEO MARKETING"/>
-            <Section2 icon="icon1" text="Creating image and training videos"/>
+            <div className="main_background">
+                <div className="main_text">{props.main.section1.backgroundVideoTitle}</div>
+                <div className="main_text">{props.main.section1.backgroundVideoSubTitle}</div>
+            </div>
+            <div className="main_our_superpower">
+                <div className="container">
+                    <div className="main_h2"><h2>OUR SUPERPOWER</h2></div>
+                    <div className="main_our_superpower_flex">
 
+                        {section2Items}
+
+                    </div>
+                </div>
+            </div>
         </main>
     )
 }
