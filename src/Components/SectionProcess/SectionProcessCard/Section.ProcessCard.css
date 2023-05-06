@@ -1,0 +1,13 @@
+.flex_card {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    line-height: normal;
+}
+.flex_card img {
+    width: 20px;
+    height: 20px;
+}
+.img_title {
+    display: flex;
+}
