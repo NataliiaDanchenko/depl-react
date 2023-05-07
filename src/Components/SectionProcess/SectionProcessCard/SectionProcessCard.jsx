@@ -4,7 +4,7 @@ const SectionProcessCard = (props) => {
     return (
         <div className="flex_card">
             <div className="img_title">
-
+                <img src={props.sectionCard.img} alt="img"></img>
                 <div>{props.sectionCard.title}</div>
             </div>
 

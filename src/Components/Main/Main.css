@@ -16,10 +16,8 @@
     font-weight: 700;
     text-align: center;
 }
-
 .main_our_superpower {
-    width: 100%;
-    height: 100vh;
+    padding-bottom: 150px;
 }
 .main_h2 {
     display: flex;
@@ -34,7 +32,6 @@ h2 {
     color: rgba(0, 139, 245, 1);
 }
 .main_our_superpower_flex {
-    padding-bottom: 100px;
     display: flex;
     justify-content: space-between;
 }
