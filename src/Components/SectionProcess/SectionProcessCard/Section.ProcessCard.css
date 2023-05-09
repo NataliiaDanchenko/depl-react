@@ -1,13 +1,42 @@
 .flex_card {
-    width: 30%;
+    width: 25%;
     display: flex;
     flex-direction: column;
     line-height: normal;
+    border: solid 1px #008bf5;
+    border-radius: 30px;
+    padding: 30px 30px 100px 30px;
+    box-shadow: 1px 1px 20px rgba(0, 139, 245, 0.7);
+    position: relative;
 }
 .flex_card img {
-    width: 20px;
-    height: 20px;
+    width: 50px;
+    height: 50px;
 }
 .img_title {
     display: flex;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 32px;
+}
+.process_title {
+    font-size: 22px;
+    font-weight: 800;
+    color: #008bf5;
+}
+.process_text_img {
+    display: flex;
+}
+.process_text_img img {
+    width: 80px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 65%;
+    padding-bottom: 30px;
+
+}
+.process_text {
+    font-size: 14px;
+    width: 60%;
 }

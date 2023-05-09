@@ -8,7 +8,7 @@ const Process = (props) => {
             <div className="process">
                 <div className="h2_background_color_flex">
                     <div className="h2_background_color">
-                        <h2>Процесс нашей  работы</h2>
+                        <h2>WORK PROCESS</h2>
                     </div>
                     <div >
                 </div>

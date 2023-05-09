@@ -27,5 +27,7 @@
     flex-wrap: wrap;
     justify-content: space-between;
     gap: 50px;
+    padding-bottom: 100px;
 }
+
 
