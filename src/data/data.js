@@ -17,6 +17,11 @@ import images4 from "../assets/img/SectonProcess/images/4.png";
 import images5 from "../assets/img/SectonProcess/images/5.png";
 import images6 from "../assets/img/SectonProcess/images/6.png";
 
+import img_1 from "../assets/img/WhatImportantVideo/1.png";
+import img_2 from "../assets/img/WhatImportantVideo/2.png";
+import img_3 from "../assets/img/WhatImportantVideo/3.png";
+import img_4 from "../assets/img/WhatImportantVideo/4.png";
+
 let state = {
     header:
         {
@@ -118,6 +123,28 @@ let state = {
             subtitle: "VIDEO",
             text: "Image videos, increase customer loyalty, increase brand and product awareness.",
             images: images6
+        }
+    ],
+    whatImportantVideo: [
+        {
+            title: "ЗВУК",
+            text: "Хороший звук является  определяющим в видео. Именно поэтому существует отдельная профессия звукорежиссёр и звуку уделяется особое внимание. Профессиональные микрофоны позволяют записывать звук в высоком качестве, без посторонних шумов, артефактов и сделать его чистым на постобработке.",
+            img: img_1
+        },
+        {
+            title: "СВЕТ",
+            text: "Освещение это основа основ любого хорошого видео. От него зависит все, настроение, качество изображение. Свет важнее камеры! С хорошим светом можно добиться отличного результата даже с iPhone, а вот с дорогой камерой и без может получится очень плохо.",
+            img: img_2
+        },
+        {
+            title: "КАМЕРА",
+            text: "Не существует универсального устройства, подходящего для любых ситуаций. Но различная оптика позволяет реализовывать любые задачи. А вот камеры бывают разные и отличаюся качествои цветопередачи, и разрешением. Мы снимаем в 4K на камеры Fujifilm и Sony.",
+            img: img_3
+        },
+        {
+            title: "КОПТЕР",
+            text: "Для некоторых задач это незаменимый инструмент. Он позволяет делать пролеты и снимать общий план.  Раньше эту задачу решало оборудование стоимостью миллионы. На сегодня мы имеем возможность делать профессиональные кадры в качестве 4K используя коптер.",
+            img: img_4
         }
     ]
 }
