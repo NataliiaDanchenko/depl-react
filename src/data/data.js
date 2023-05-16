@@ -127,23 +127,23 @@ let state = {
     ],
     whatImportantVideo: [
         {
-            title: "ЗВУК",
-            text: "Хороший звук является  определяющим в видео. Именно поэтому существует отдельная профессия звукорежиссёр и звуку уделяется особое внимание. Профессиональные микрофоны позволяют записывать звук в высоком качестве, без посторонних шумов, артефактов и сделать его чистым на постобработке.",
+            title: "SOUND",
+            text: "Good sound is a defining feature of a video. That is why there is a separate profession of a sound engineer and special attention is paid to sound. Professional microphones allow you to record sound in high quality, without extraneous noise, artifacts and make it clean in post-processing.",
             img: img_1
         },
         {
-            title: "СВЕТ",
-            text: "Освещение это основа основ любого хорошого видео. От него зависит все, настроение, качество изображение. Свет важнее камеры! С хорошим светом можно добиться отличного результата даже с iPhone, а вот с дорогой камерой и без может получится очень плохо.",
+            title: "LIGHT",
+            text: "Lighting is the foundation of any good video. Everything depends on it, the mood, the quality of the image. The light is more important than the camera! With good light, you can achieve excellent results even with an iPhone, but with an expensive camera and without it, it can turn out very badly.",
             img: img_2
         },
         {
-            title: "КАМЕРА",
-            text: "Не существует универсального устройства, подходящего для любых ситуаций. Но различная оптика позволяет реализовывать любые задачи. А вот камеры бывают разные и отличаюся качествои цветопередачи, и разрешением. Мы снимаем в 4K на камеры Fujifilm и Sony.",
+            title: "CAMERA",
+            text: "There is no universal device suitable for all situations. But different optics allow you to implement any task. But the cameras are different and differ in the quality and color reproduction, and resolution. We shoot in 4K with Fujifilm and Sony cameras.",
             img: img_3
         },
         {
-            title: "КОПТЕР",
-            text: "Для некоторых задач это незаменимый инструмент. Он позволяет делать пролеты и снимать общий план.  Раньше эту задачу решало оборудование стоимостью миллионы. На сегодня мы имеем возможность делать профессиональные кадры в качестве 4K используя коптер.",
+            title: "COPTER",
+            text: "For some tasks, this is an indispensable tool. It allows you to make flights and shoot a general plan. Previously, this problem was solved by equipment worth millions. Today we have the opportunity to take professional shots in 4K quality using a copter.",
             img: img_4
         }
     ]

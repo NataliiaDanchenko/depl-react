@@ -5,4 +5,32 @@
     padding: 50px;
     box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.2);
     border-radius: 30px;
+    position: relative;
+}
+.important_video_title {
+    padding-bottom: 32px;
+    font-size: 30px;
+    font-weight: 700;
+    color: #008bf5;
+    background: url("../../../assets/img/Line.png");
+    background-repeat: no-repeat;
+    background-position: left 60px;
+
+}
+.important_video_card_flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.important_video_text {
+    width: 45%;
+    padding-top: 20px;
+}
+.important_video_img img {
+    width: 300px;
+    height: 300px;
+    position: absolute;
+    top: 15%;
+    right:0;
+    padding-right: 30px;
 }

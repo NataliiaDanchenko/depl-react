@@ -6,7 +6,7 @@ const WhatImportantVideo = (props) => {
       <div className="container">
         <div className="what_important_video">
             <div className="what_important_video_title">
-                <div className="what_important_video_title_background"><h2>ЧТО ВАЖНО В ВИДЕО</h2></div>
+                <div className="what_important_video_title_background"><h2>WHAT IS IMPORTANT</h2></div>
             </div>
             <div className="what_important_video_flex">
                 {importantVideo}
