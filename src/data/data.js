@@ -146,6 +146,32 @@ let state = {
             text: "For some tasks, this is an indispensable tool. It allows you to make flights and shoot a general plan. Previously, this problem was solved by equipment worth millions. Today we have the opportunity to take professional shots in 4K quality using a copter.",
             img: img_4
         }
+    ],
+    price:
+        {
+           title1: "ИМИДЖЕВЫЙ РОЛИК",
+            subTitle: "ЗАПРОС ЦЕНЫ",
+            button1: "Send"
+        },
+    pricePrice: [
+        {
+            title: "ВИДЕОРОЛИК ДЛЯ БЛОГА",
+            text: "Создаем имиджевые и обучающие видео о продуктах и услугах бизнеса",
+            price: "150$",
+            button: "Заказать просчет"
+        },
+        {
+            title: "ВИДЕОРОЛИК ДЛЯ БЛОГА",
+            text: "Создаем имиджевые и обучающие видео о продуктах и услугах бизнеса",
+            price: "150$",
+            button: "Заказать просчет"
+        },
+        {
+            title: "ВИДЕОРОЛИК ДЛЯ БЛОГА",
+            text: "Создаем имиджевые и обучающие видео о продуктах и услугах бизнеса",
+            price: "150$",
+            button: "Заказать просчет"
+        }
     ]
 }
 export default state;

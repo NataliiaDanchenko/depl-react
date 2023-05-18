@@ -5,7 +5,7 @@ import img from "../assets/img/Header/header-logo.svg";
 import Main from "./Main/Main";
 import SectionProcess from "./SectionProcess/SectionProcess";
 import WhatImportantVideo from "./WhatImportantVideo/WhatImportantVideo";
-
+import Price from "./Price/Price";
 
 
 function App(props) {
@@ -17,6 +17,7 @@ function App(props) {
         <Main main={props.state.main}/>
         <SectionProcess sectionProcess={props.state.sectionProcess}/>
         <WhatImportantVideo whatImportantVideo={props.state.whatImportantVideo}/>
+        <Price price={props.state.price} pricePrice={props.state.pricePrice}/>
 
 
     </div>
