@@ -1,0 +1,11 @@
+.title {
+    color: #008bf5;
+    padding-top: 600px;
+}
+.price_flex {
+    display: flex;
+    gap: 5%;
+}
+.form {
+
+}
