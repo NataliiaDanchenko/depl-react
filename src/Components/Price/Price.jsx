@@ -15,7 +15,9 @@ const Price = (props) => {
                           <div><input type="text" placeholder="Name"/></div>
                           <div><input type="text" placeholder="Phone"/></div>
                           <div><input type="text" placeholder="Email"/></div>
-                          <div className="price_button">{props.price.button1}</div>
+                          <div className="flex_button">
+                              <div className="price_card_input">{props.price.button1}</div>
+                          </div>
                     </form>
                   </div>
               </div>

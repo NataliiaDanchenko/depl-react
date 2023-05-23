@@ -1,4 +1,48 @@
 .price_card_flex {
     display: flex;
-    gap: 1%;
+    justify-content: space-between;
+}
+.price_card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 17%;
+    border-radius: 20px;
+    background: #008bf5;
+    padding: 50px;
+}
+.price_card_tytle {
+    font-size: 22px;
+    font-weight: 700;
+    color: white;
+    background: #008bf5;
+    border-radius: 20px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+.price_text {
+    color: white;
+    padding-bottom: 20px;
+    text-align: center;
+    line-height: 20px;
+}
+.price_price {
+    color: white;
+    font-size: 32px;
+    font-weight: 700;
+    padding: 30px;
+    box-sizing: border-box;
+    text-align: center;
+}
+.price_button {
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    background: white;
+    color: #008bf5;
+    border-radius: 20px;
+    font-size: 16px;
+    font-weight: 550;
+    line-height: 50px;
 }
