@@ -22,6 +22,12 @@ import img_2 from "../assets/img/WhatImportantVideo/2.png";
 import img_3 from "../assets/img/WhatImportantVideo/3.png";
 import img_4 from "../assets/img/WhatImportantVideo/4.png";
 
+import image_1 from "../assets/img/Team/1.png";
+import image_2 from "../assets/img/Team/2.png";
+import image_3 from "../assets/img/Team/3.png";
+import image_4 from "../assets/img/Team/4.png";
+
+
 let state = {
     header:
         {
@@ -149,28 +155,55 @@ let state = {
     ],
     price:
         {
-           title1: "ИМИДЖЕВЫЙ РОЛИК",
-            subTitle: "ЗАПРОС ЦЕНЫ",
+           title1: "IMAGE VIDEO",
+            subTitle: "PRICE REQUEST",
             button1: "Send"
         },
     pricePrice: [
         {
-            title: "ВИДЕОРОЛИК ДЛЯ БЛОГА",
-            text: "Создаем имиджевые и обучающие видео о продуктах и услугах бизнеса",
+            title: "BLOG VIDEO",
+            text: "We create image and training videos about business products and services",
             price: "150$",
             button: "Заказать просчет"
         },
         {
-            title: "ВИДЕОРОЛИК ДЛЯ БЛОГА",
-            text: "Создаем имиджевые и обучающие видео о продуктах и услугах бизнеса",
+            title: "BLOG VIDEO",
+            text: "We create image and training videos about business products and services",
             price: "150$",
             button: "Заказать просчет"
         },
         {
-            title: "ВИДЕОРОЛИК ДЛЯ БЛОГА",
-            text: "Создаем имиджевые и обучающие видео о продуктах и услугах бизнеса",
+            title: "BLOG VIDEO",
+            text: "We create image and training videos about business products and services",
             price: "150$",
             button: "Заказать просчет"
+        }
+    ],
+    teamImg:
+        {
+            tytleImg: "TEAM"
+        },
+    team:
+        [
+        {
+            img: image_1,
+            tytle: "Kate Eliseeff",
+            text: "Creative director. Comes up with ideas and includes communication in the game."
+        },
+        {
+            img: image_2,
+            tytle: "Piter Smirnoff",
+            text: "Creative director. Comes up with ideas and includes communication in the game."
+        },
+        {
+            img: image_3,
+            tytle: "Igor Corneeff",
+            text: "Creative director. Comes up with ideas and includes communication in the game."
+        },
+        {
+            img: image_4,
+            tytle: "David Okopan",
+            text: "Creative director. Comes up with ideas and includes communication in the game."
         }
     ]
 }

@@ -6,6 +6,7 @@ import Main from "./Main/Main";
 import SectionProcess from "./SectionProcess/SectionProcess";
 import WhatImportantVideo from "./WhatImportantVideo/WhatImportantVideo";
 import Price from "./Price/Price";
+import Team from "./Team/Team";
 
 
 function App(props) {
@@ -18,6 +19,7 @@ function App(props) {
         <SectionProcess sectionProcess={props.state.sectionProcess}/>
         <WhatImportantVideo whatImportantVideo={props.state.whatImportantVideo}/>
         <Price price={props.state.price} pricePrice={props.state.pricePrice}/>
+        <Team teamImg={props.state.teamImg} team={props.state.team}/>
 
 
     </div>
