@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/depl-react/static/css/main.0de49c77.css",
-    "main.js": "/depl-react/static/js/main.58bf333c.js",
+    "main.css": "/depl-react/static/css/main.f0af63f9.css",
+    "main.js": "/depl-react/static/js/main.5c81941a.js",
     "static/js/787.28cb0dcd.chunk.js": "/depl-react/static/js/787.28cb0dcd.chunk.js",
     "static/media/section1-background.png": "/depl-react/static/media/section1-background.e387d003bc0cadafa65d.png",
     "static/media/header-background.png": "/depl-react/static/media/header-background.3b0a1d2d5a9e33e69d45.png",
     "static/media/header-img.png": "/depl-react/static/media/header-img.0cd4cfb03174ad6b0621.png",
     "static/media/3.png": "/depl-react/static/media/3.de57f0f6703be6b4630e.png",
-    "static/media/2.png": "/depl-react/static/media/2.1e4e71f7a77a97b5994d.png",
-    "static/media/4.png": "/depl-react/static/media/4.4bf6e15e0f49bf82d930.png",
     "static/media/1.png": "/depl-react/static/media/1.e9ae6557c067dce55b2c.png",
+    "static/media/2.png": "/depl-react/static/media/2.1e4e71f7a77a97b5994d.png",
+    "static/media/4.png": "/depl-react/static/media/4.cc8390eb8f27c4807107.png",
     "static/media/6.png": "/depl-react/static/media/6.1c3a668b243fefb34e33.png",
     "static/media/3.svg": "/depl-react/static/media/3.e14eff1d720f2790ad0a291a6a2a6d8b.svg",
     "static/media/2.svg": "/depl-react/static/media/2.a013e20d5044ff5e3d61791fe37e9adf.svg",
@@ -23,12 +23,12 @@
     "static/media/header-logo.svg": "/depl-react/static/media/header-logo.e4595439a71be835c054c164cb2b4e1b.svg",
     "static/media/icons3.svg": "/depl-react/static/media/icons3.a1e8805e6b07ed5fe33846851494a978.svg",
     "index.html": "/depl-react/index.html",
-    "main.0de49c77.css.map": "/depl-react/static/css/main.0de49c77.css.map",
-    "main.58bf333c.js.map": "/depl-react/static/js/main.58bf333c.js.map",
+    "main.f0af63f9.css.map": "/depl-react/static/css/main.f0af63f9.css.map",
+    "main.5c81941a.js.map": "/depl-react/static/js/main.5c81941a.js.map",
     "787.28cb0dcd.chunk.js.map": "/depl-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0de49c77.css",
-    "static/js/main.58bf333c.js"
+    "static/css/main.f0af63f9.css",
+    "static/js/main.5c81941a.js"
   ]
 }
