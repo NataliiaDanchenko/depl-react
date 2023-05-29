@@ -205,6 +205,10 @@ let state = {
             tytle: "David Okopan",
             text: "Creative director. Comes up with ideas and includes communication in the game."
         }
-    ]
+    ],
+    footer: {
+        logoTytle: "MEDFORD",
+        logoSubTytle: "MEDIA"
+    }
 }
 export default state;

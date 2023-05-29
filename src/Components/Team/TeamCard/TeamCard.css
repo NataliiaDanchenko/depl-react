@@ -5,3 +5,14 @@
     align-items: center;
     width: 25%;
 }
+.teamCard_tytle {
+    font-size: 22px;
+    font-weight: 700;
+    color: #008bf5;
+    padding: 30px 0;
+}
+.teamCard_text {
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+}
