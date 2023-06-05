@@ -8,6 +8,7 @@ import WhatImportantVideo from "./WhatImportantVideo/WhatImportantVideo";
 import Price from "./Price/Price";
 import Team from "./Team/Team";
 import Footer from "./Footer/Footer";
+import Portfolio from "./Portfolio/Portfolio";
 
 
 function App(props) {
@@ -22,6 +23,7 @@ function App(props) {
         <Price price={props.state.price} pricePrice={props.state.pricePrice}/>
         <Team teamImg={props.state.teamImg} team={props.state.team}/>
         <Footer logo={props.state.footer.imgLogo} logoFooter={img} logoTytle={props.state.footer.logoTytle} logoSubTytle={props.state.footer.logoSubTytle}/>
+        <Portfolio portfolio={props.state.portfolio}/>
 
     </div>
   );

@@ -27,6 +27,11 @@ import image_2 from "../assets/img/Team/2.png";
 import image_3 from "../assets/img/Team/3.png";
 import image_4 from "../assets/img/Team/4.png";
 
+import img_portfolio_one from "../assets/img/Portfolio/1.png";
+import img_portfolio_two from "../assets/img/Portfolio/2.png";
+import img_portfolio_three from "../assets/img/Portfolio/3.png";
+import img_portfolio_four from "../assets/img/Portfolio/4.png";
+
 
 let state = {
     header:
@@ -209,6 +214,12 @@ let state = {
     footer: {
         logoTytle: "MEDFORD",
         logoSubTytle: "MEDIA"
-    }
+    },
+    portfolio: [
+        {img: img_portfolio_one},
+        {img: img_portfolio_two},
+        {img: img_portfolio_three},
+        {img: img_portfolio_four}
+    ]
 }
 export default state;

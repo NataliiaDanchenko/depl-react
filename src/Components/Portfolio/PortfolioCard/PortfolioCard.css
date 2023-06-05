@@ -1,0 +1,11 @@
+.portfolio_flex img {
+    width: 600px;
+    height: 400px;
+    transition: .5s;
+}
+.portfolio_flex img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    display: block;
+
+}
