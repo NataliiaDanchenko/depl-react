@@ -4,6 +4,7 @@ import HeaderLink from "./HeaderLink/HeaderLink";
 
 const Header = (props) => {
     let headerItems = props.links.links.map(link => <HeaderLink link={link}/>)
+
     return (
         <header>
             <div className="header_background">
@@ -15,7 +16,8 @@ const Header = (props) => {
                         </div>
                         <nav>
                             {headerItems}
-                            <div><a href="https://www.google.com.ua/"><div className="header_contact">{props.contacts}</div></a></div>
+
+                            <div className="header_contact">{props.contacts}</div>
                         </nav>
                     </div>
                 </div>

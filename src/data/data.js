@@ -39,7 +39,7 @@ let state = {
             links: [
                 {
                     name: "Portfolio",
-                    address: "/"
+                    address: "/portfolio"
                 },
                 {
                     name: "Our works",
@@ -55,8 +55,9 @@ let state = {
                 }
         ],
             contacts: ["Contacts"],
+
             logosTitle: {
-                title1: "MEDFORTD",
+                title1: "MEDFORD",
                 title2: "MEDIA"
             },
             h1: {
