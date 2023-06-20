@@ -27,6 +27,7 @@
 .process_text_img {
     display: flex;
 }
+
 .process_text_img img {
     width: 70px;
     height: 70px;
