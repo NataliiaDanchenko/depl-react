@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/depl-react/static/css/main.dec9aaed.css",
-    "main.js": "/depl-react/static/js/main.6fc0236d.js",
+    "main.js": "/depl-react/static/js/main.93cdb7ea.js",
     "static/js/787.28cb0dcd.chunk.js": "/depl-react/static/js/787.28cb0dcd.chunk.js",
     "static/media/section1-background.png": "/depl-react/static/media/section1-background.e387d003bc0cadafa65d.png",
     "static/media/1.png": "/depl-react/static/media/1.e9ae6557c067dce55b2c.png",
@@ -24,11 +24,11 @@
     "static/media/icons3.svg": "/depl-react/static/media/icons3.a1e8805e6b07ed5fe33846851494a978.svg",
     "index.html": "/depl-react/index.html",
     "main.dec9aaed.css.map": "/depl-react/static/css/main.dec9aaed.css.map",
-    "main.6fc0236d.js.map": "/depl-react/static/js/main.6fc0236d.js.map",
+    "main.93cdb7ea.js.map": "/depl-react/static/js/main.93cdb7ea.js.map",
     "787.28cb0dcd.chunk.js.map": "/depl-react/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dec9aaed.css",
-    "static/js/main.6fc0236d.js"
+    "static/js/main.93cdb7ea.js"
   ]
 }
