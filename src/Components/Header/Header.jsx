@@ -17,7 +17,7 @@ const Header = (props) => {
                         <nav>
                             {headerItems}
 
-                            <div className="header_contact">{props.contacts}</div>
+
                         </nav>
                     </div>
                 </div>

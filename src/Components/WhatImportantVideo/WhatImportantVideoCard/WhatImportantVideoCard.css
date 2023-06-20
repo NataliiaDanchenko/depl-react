@@ -1,21 +1,19 @@
 
 .card_wrap {
-    width: 40%;
+    width: 43%;
     border: solid 1px lightgrey;
-    padding: 50px;
+    padding: 30px;
     box-shadow: 1px 1px 30px rgba(0, 0, 0, 0.2);
     border-radius: 30px;
     position: relative;
 }
 .important_video_title {
-    padding-bottom: 32px;
     font-size: 30px;
     font-weight: 700;
     color: #008bf5;
     background: url("../../../assets/img/Line.png");
     background-repeat: no-repeat;
-    background-position: left 60px;
-
+    background-position: left 40px;
 }
 .important_video_card_flex {
     display: flex;
@@ -23,14 +21,14 @@
     align-items: center;
 }
 .important_video_text {
-    width: 45%;
+    width: 60%;
     padding-top: 20px;
 }
 .important_video_img img {
-    width: 300px;
-    height: 300px;
+    width: 200px;
+    height: 200px;
     position: absolute;
-    top: 15%;
+    top: 10%;
     right:0;
-    padding-right: 30px;
+    padding-right: 20px;
 }

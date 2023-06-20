@@ -38,6 +38,10 @@ let state = {
         {
             links: [
                 {
+                    name: "Home",
+                    address: "/"
+                },
+                {
                     name: "Portfolio",
                     address: "/portfolio"
                 },
@@ -52,9 +56,12 @@ let state = {
                 {
                     name: "Price",
                     address: "/price"
+                },
+                {
+                    name: "Contacts",
+                    address: "/contacts"
                 }
         ],
-            contacts: ["Contacts"],
 
             logosTitle: {
                 title1: "MEDFORD",

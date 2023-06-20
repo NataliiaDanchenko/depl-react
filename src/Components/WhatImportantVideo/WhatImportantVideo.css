@@ -3,19 +3,18 @@
     height: 100vh;
 }
 .what_important_video_title {
-    padding-top: 200px;
+    padding: 50px 0;
     display: flex;
     justify-content: center;
     align-items: center;
 }
 .what_important_video_title_background {
-    width: 900px;
+    width: 800px;
     height: 100px;
     text-align: center;
     background: #008bf5;
     line-height: 100px;
     border-radius: 100px;
-    margin-bottom: 100px;
 }
 .what_important_video_title_background h2 {
     color: white;

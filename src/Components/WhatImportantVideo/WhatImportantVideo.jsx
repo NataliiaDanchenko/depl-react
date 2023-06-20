@@ -1,5 +1,7 @@
 import "./WhatImportantVideo.css";
 import WhatImportantVideoCard from "./WhatImportantVideoCard/WhatImportantVideoCard";
+
+
 const WhatImportantVideo = (props) => {
     const importantVideo = props.whatImportantVideo.map(impVid => <WhatImportantVideoCard imVid={impVid}/>);
     return (
