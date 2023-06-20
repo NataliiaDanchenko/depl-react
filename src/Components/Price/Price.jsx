@@ -5,7 +5,7 @@ const Price = (props) => {
     const priceCard = props.pricePrice.map(pc => <PriceCard pc={pc}/>);
   return (
       <div className="container">
-          <div className="title">СТОИМОСТЬ УСЛУГ</div>
+          <div className="title">PRICE</div>
           <div className="price_flex">
               <div className="price_input">
                   <div className="price_title">{props.price.title1}</div>
