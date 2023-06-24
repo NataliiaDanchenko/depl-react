@@ -1,6 +1,7 @@
 
 import "./Main.css";
 import NewSectionCard from "./newSectionCard/NewSectionCard";
+import {NavLink} from "react-router-dom";
 
 
 const Main = (props) => {
@@ -8,8 +9,18 @@ const Main = (props) => {
     return (
         <main>
             <div className="main_background">
-                <div className="main_text">{props.main.section1.backgroundVideoTitle}</div>
-                <div className="main_text">{props.main.section1.backgroundVideoSubTitle}</div>
+                <div className="container nav-portfolio">
+                    <NavLink to="/">Home</NavLink>
+                    <NavLink to="/portfolio">Portfolio</NavLink>
+                    <NavLink to="/works">Our Works</NavLink>
+                    <NavLink to="/about-us">About Us</NavLink>
+                    <NavLink to="/price">Price</NavLink>
+                    <NavLink to="/contacts">Contacts</NavLink>
+                </div>
+                <div className="main_container">
+                    <div className="main_text">{props.main.section1.backgroundVideoTitle}</div>
+                    <div className="main_text">{props.main.section1.backgroundVideoSubTitle}</div>
+                </div>
             </div>
             <div className="main_our_superpower">
                 <div className="container">

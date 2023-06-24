@@ -1,3 +1,16 @@
+.nav-our-works {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 50px;
+}
+.nav-our-works a {
+    color: #008bf5;
+    text-decoration: none;
+}
 .process {
     width: 100%;
     height: 100vh;

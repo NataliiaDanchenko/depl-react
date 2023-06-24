@@ -1,10 +1,21 @@
 import "./Price.css";
 import PriceCard from "./PriceCard/PriceCard";
+import {NavLink} from "react-router-dom";
+
 
 const Price = (props) => {
     const priceCard = props.pricePrice.map(pc => <PriceCard pc={pc}/>);
   return (
       <div className="container">
+          <div className="nav-price">
+              <NavLink to="/">Home</NavLink>
+              <NavLink to="/portfolio">Portfolio</NavLink>
+              <NavLink to="/works">Our Works</NavLink>
+              <NavLink to="/about-us">About Us</NavLink>
+              <NavLink to="/price">Price</NavLink>
+              <NavLink to="/contacts">Contacts</NavLink>
+          </div>
+
           <div className="title">PRICE</div>
           <div className="price_flex">
               <div className="price_input">

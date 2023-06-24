@@ -1,5 +1,18 @@
+.nav-price {
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+    align-items: center;
+    font-size: 14px;
+    line-height: 17px;
+    padding-top: 50px;
+}
+.nav-price a {
+    color: #008bf5;
+    text-decoration: none;
+}
 .title {
-    margin: 50px 0 80px 0;
+    margin: 50px 0;
     text-align: center;
     line-height: 100px;
     border-radius: 100px;
